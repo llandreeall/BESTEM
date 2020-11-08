@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Andreea.unity
+    guid: 565069878488fc64996014b5833b1854
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 377ea9c716f615b4da2ff6e484d49952
+  - enabled: 0
+    path: Assets/Scenes/PasteScene.unity
+    guid: 57828bf4d1c77a64da9bbc74a11c0cf3
+  - enabled: 0
+    path: Assets/Scenes/DropScene.unity
+    guid: fedfdb2472e06794a99e9809c10c75a8
+  - enabled: 0
+    path: Assets/Scenes/ResultScene.unity
+    guid: 44e5b12223bf7dd45b9a273249515525
+  m_configObjects: {}
